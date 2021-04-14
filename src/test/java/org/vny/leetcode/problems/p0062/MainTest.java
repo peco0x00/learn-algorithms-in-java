@@ -12,7 +12,7 @@ public class MainTest {
     // Main main = new Naive01();
     // Main main = new Dynamic();
     // Main main = new Compress();
-    Main main = new Solution01() ;
+    Main main = new Solution01();
     int m = 3, n = 7;
     int res = main.uniquePaths(m, n);
     int ans = 28;

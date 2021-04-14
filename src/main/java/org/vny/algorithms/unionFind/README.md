@@ -145,3 +145,4 @@ int[] sz = new int[N];
 
 [leetcode 130](https://leetcode-cn.com/problems/surrounded-regions/)
 [leetcode 990](https://leetcode-cn.com/problems/satisfiability-of-equality-equations)
+[leetcode 128](https://leetcode-cn.com/problems/longest-consecutive-sequence/)

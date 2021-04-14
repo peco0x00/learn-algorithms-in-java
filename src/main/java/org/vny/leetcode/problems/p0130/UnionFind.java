@@ -38,7 +38,7 @@ public class UnionFind implements Main {
         uf.union(n * (m - 1) + j, root);
       }
     }
-    // direction array, offen used in searching problems
+    // direction array, often used in searching problems
     int[][] d = {{1, 0}, {0, 1}, {0, -1}, {-1, 0}};
     for (int i = 1; i < m - 1; i++) {
       for (int j = 1; j < n - 1; j++) {

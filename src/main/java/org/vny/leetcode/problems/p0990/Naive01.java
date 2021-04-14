@@ -2,6 +2,8 @@ package org.vny.leetcode.problems.p0990;
 
 public class Naive01 implements Main {
 
+  // running time beat 100% of users
+  // using space beat 36% of users
   @Override
   public boolean equationsPossible(String[] equations) {
     int[] parent = new int[26];
