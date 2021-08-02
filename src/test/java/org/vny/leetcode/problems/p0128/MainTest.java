@@ -29,9 +29,5 @@ public class MainTest {
     int ans3 = 7;
     assertEquals(ans3, res3);
   }
-
-  @Test
-  public void test() {
-  }
 }
 

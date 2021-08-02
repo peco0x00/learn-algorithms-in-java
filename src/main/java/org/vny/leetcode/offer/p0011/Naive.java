@@ -17,7 +17,6 @@ public class Naive implements Main {
   if a[mid] > a[right], we can be sure that a[mid] is not the min
     so left = mid + 1
    */
-  @Override
   public int minArray(int[] numbers) {
     int n = numbers.length;
     int left = 0, right = n - 1;
